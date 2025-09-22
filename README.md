@@ -21,6 +21,6 @@ Try the app at: [Insert Streamlit URL here after deployment, e.g., `https://your
 ### Setup Instructions
 1. **Clone or Fork the Repository**:
    - Fork this repository or clone it to your GitHub account.
-   - Use the GitHub iOS app to manage files (`app.py`, `requirements.txt`).
+   - Use the GitHub iOS app to manage files (`streamlit_app.py`, `requirements.txt`).
 
 2. **File Structure**:
